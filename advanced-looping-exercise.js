@@ -17,7 +17,8 @@ basket.forEach(item => {
 
 for (item in detailedBasket) {
   console.log(item);
-  console.log("I made a change")
+  console.log("I made a change");
+  console.log("THis is the branch test");
 }
 
 for (item of basket) {
